@@ -9,6 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>kekayan's Resume</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url= https://www.dropbox.com/scl/fi/u94d8h0735r3vf13wa1ys/CV_Jorge_Luis_Ochoa_Rincon.pdf?rlkey=gq2p0xqa8yxd9nuczaat1anra&dl=0" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html>
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
