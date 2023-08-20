@@ -1,12 +1,12 @@
 ---
-title: Curriculum vitæ
+title: CV
 description-meta: "Jorge Ochoa's CV"
 date: 2023-08-11
-title-block-banner: "#771C6D"
+#title-block-banner: "#771C6D"
 published-title: CV last updated
 engine: knitr 
 cv:
-  pdf: "files/CV_Jorge_Luis_Ochoa_Rincon.pdf"
+  pdf: "CV_Jorge_Luis_Ochoa_Rincon.pdf"
 ---
 
 ```{css echo=FALSE}
@@ -31,12 +31,12 @@ cv:
 
 ```{=html}
 <p class="text-center">
-  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
+  <a class="btn btn-primary btn-lg cv-download" href="files/CV_Jorge_Luis_Ochoa_Rincon.pdf">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download current CV
   </a>
 </p>
 
 <div class="embed-container">
-  <iframe src="`r rmarkdown::metadata$cv$pdf`" style="border: 0.5px"></iframe>
+  <iframe src="files/CV_Jorge_Luis_Ochoa_Rincon.pdf" style="border: 0.5px"></iframe>
 </div>
 ```
