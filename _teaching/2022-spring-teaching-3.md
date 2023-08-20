@@ -1,14 +1,14 @@
 ---
-title: "Introductory Econometrics"
+title: "Intermediate Macroeconomics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-spring-teaching-3
 venue: "Universidad de los Andes, Faculty of Economics"
-date: 2021-06-01
+date: 2022-01-01
 location: "Bogotá, Colombia"
 ---
 
-Econometrics course for undergraduates. You can find more information here.
+Macroeconomics course for undergraduates. You can find more information here.
 
 # Heading 1
 ======
