@@ -3,8 +3,6 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
@@ -57,4 +55,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
 [Download cv](http://jorgeluis8ar.github.io/files/CV_Jorge_Luis_Ochoa_Rincon.pdf)
