@@ -3,7 +3,7 @@ title: "Introductory Macroeconomics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Universidad de los Andes, Faculty of Economics"nt"
+venue: "Universidad de los Andes, Faculty of Economics"
 date: 2022-01-01
 location: "Bogotá, Colombia"
 ---
