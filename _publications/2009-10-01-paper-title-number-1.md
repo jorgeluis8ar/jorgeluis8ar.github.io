@@ -2,7 +2,7 @@
 title: "The Welfare Effect of Subsidies: A Case Study of Public Transport"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper estimates welfare gains using detailed data from a public transport subsidy experiment in Bogota, Colombia.'
+excerpt: 'This paper estimates welfare gains using detailed data from a public transport subsidy experiment in Bogota, Colombia. The effective experimental variation in subsidy allocation allows the identification of key parameters in a discrete choice model, resulting in credible estimates of welfare gains for the beneficiaries of the intervention.'
 date: 2023-10-01
 venue: 'Documentos CEDE'
 paperurl: 'https://dx.doi.org/10.2139/ssrn.4575115'
