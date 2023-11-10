@@ -1,5 +1,5 @@
 ---
-title: "The Welfare Effects of Subsidies: A Case Study of Public Transport"
+title: "Modelo de elección de modos de transporte: Evidencia de un experimento social controlado"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper estimates welfare gains using detailed data from a public transport subsidy experiment in Bogota, Colombia. The effective experimental variation in subsidy allocation allows the identification of key parameters in a discrete choice model, resulting in credible estimates of welfare gains for the beneficiaries of the intervention. The program increased participants' average monthly welfare, measured as consumer surplus, by 12.84 USD or 3.1% of average monthly household income. Monthly increases in welfare are almost 5 times smaller for commuting for work than for other reasons. Much of the heterogeneity is explained by travel times and less flexibility in commuting times.'
