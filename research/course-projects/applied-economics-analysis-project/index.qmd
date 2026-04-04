@@ -1,0 +1,24 @@
+---
+title: "Applied Economics Analysis Final Project"
+date: 2026-04-04
+author:
+  - name: Jorge Luis Ochoa Rincón
+    url: https://jorgeluis8ar.github.io/
+    orcid: 0009-0004-4113-8724
+    affiliation: Department of Economics, Brown University
+categories:
+  - Coursework
+  - Applied economics
+  - Research design
+pub-info:
+  reference: >-
+    <strong>Jorge Luis Ochoa Rincón</strong>, “Applied Economics Analysis Final Project” (course project in development)
+  links:
+    - name: GitHub
+      url: https://github.com/jorgeluis8ar
+      icon: bi bi-github
+---
+
+## Overview
+
+This page is a placeholder for the final project connected to Applied Economics Analysis. As the semester develops, this entry will become the home for the project description, supporting materials, and any final outputs that belong on the website.

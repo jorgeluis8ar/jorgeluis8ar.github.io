@@ -1,0 +1,40 @@
+---
+title: "The Welfare Effect of Subsidies: A Case Study of Public Transport"
+date: 2023-10-01
+author:
+  - name: Jorge Luis Ochoa Rincón
+    url: https://jorgeluis8ar.github.io/
+    orcid: 0009-0004-4113-8724
+    affiliation: Department of Economics, Brown University
+categories:
+  - Development economics
+  - Urban economics
+  - Transport
+  - Welfare
+  - Public policy
+pub-info:
+  reference: >-
+    <strong>Jorge Luis Ochoa Rincón</strong>, “The Welfare Effect of Subsidies: A Case Study of Public Transport” <em>Documentos CEDE</em> (2023)
+  links:
+    - name: English PDF
+      url: /files/WP-Welfare-Effects-Subsidies-Case-Study-Public-Transport.pdf
+      icon: bi bi-file-earmark-pdf
+    - name: Spanish PDF
+      url: /files/dcede2023-30.pdf
+      icon: bi bi-file-earmark-pdf
+    - name: SSRN / DOI
+      url: https://dx.doi.org/10.2139/ssrn.4575115
+      icon: bi bi-link-45deg
+---
+
+## Important links
+
+- [English paper](/files/WP-Welfare-Effects-Subsidies-Case-Study-Public-Transport.pdf)
+- [Spanish paper](/files/dcede2023-30.pdf)
+- [SSRN / DOI](https://dx.doi.org/10.2139/ssrn.4575115)
+
+## Abstract
+
+This paper estimates welfare gains using detailed data from a public transport subsidy experiment in Bogotá, Colombia. The effective experimental variation in subsidy allocation allows the identification of key parameters in a discrete choice model, resulting in credible estimates of welfare gains for the beneficiaries of the intervention.
+
+The program increased participants’ average monthly welfare, measured as consumer surplus, while the magnitude of those gains differed meaningfully across trip purposes and travel-time constraints. The project sits at the intersection of development economics, urban economics, and transport policy, and it continues to shape my broader research agenda on mobility and access.

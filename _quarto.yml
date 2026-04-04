@@ -1,0 +1,86 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - about.qmd
+    - cv/index.qmd
+    - research/index.qmd
+    - research/*/*/index.qmd
+    - talks/index.qmd
+    - blog/index.qmd
+    - blog/2026/**/index.qmd
+  resources:
+    - site-assets/**
+    - files/WP-Welfare-Effects-Subsidies-Case-Study-Public-Transport.pdf
+    - files/dcede2023-30.pdf
+
+website:
+  title: "Jorge Luis Ochoa Rincón"
+  description: "First-year PhD student in Economics at Brown University."
+  favicon: site-assets/img/website_icon.png
+  site-url: "https://jorgeluis8ar.github.io/"
+  repo-url: "https://github.com/jorgeluis8ar/jorgeluis8ar.github.io"
+  repo-actions: [source]
+  open-graph: true
+  twitter-card:
+    creator: "@JorgeLuis_ochoa"
+  page-footer:
+    left: "Jorge Luis Ochoa Rincón"
+    center: "Economics PhD student at Brown University"
+    right:
+      - text: "Brown"
+        href: "mailto:jorge_ochoa@brown.edu"
+      - text: "GitHub"
+        href: "https://github.com/jorgeluis8ar"
+  navbar:
+    logo: site-assets/img/website_icon.png
+    logo-alt: "JO monogram"
+    title: "Jorge Luis Ochoa Rincón"
+    pinned: true
+    search: true
+    left:
+      - text: "Home"
+        icon: house-door
+        href: index.qmd
+      - text: "About"
+        icon: person
+        href: about.qmd
+      - text: "Research"
+        icon: journal-text
+        href: research/index.qmd
+      - text: "CV"
+        icon: file-earmark-person
+        href: cv/index.qmd
+      - text: "Blog"
+        icon: pencil-square
+        href: blog/index.qmd
+    right:
+      - icon: github
+        href: "https://github.com/jorgeluis8ar"
+        aria-label: "GitHub"
+      - icon: mortarboard
+        href: "https://scholar.google.com/citations?user=g3sRGYkAAAAJ&hl=en&oi=sra"
+        aria-label: "Google Scholar"
+      - icon: person-badge
+        href: "https://orcid.org/0009-0004-4113-8724"
+        aria-label: "ORCID"
+      - icon: twitter-x
+        href: "https://x.com/JorgeLuis_ochoa"
+        aria-label: "X / Twitter"
+
+format:
+  html:
+    theme:
+      light:
+        - minty
+        - site-assets/styles.scss
+    toc: false
+    smooth-scroll: true
+    anchor-sections: true
+    link-external-newwindow: true
+    page-layout: full
+    include-after-body: site-assets/includes/after-body.html
+
+execute:
+  freeze: auto

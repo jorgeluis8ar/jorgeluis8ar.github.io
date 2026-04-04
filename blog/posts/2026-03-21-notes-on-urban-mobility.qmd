@@ -1,0 +1,11 @@
+---
+title: "Notes on urban mobility and welfare"
+date: 2026-03-21
+description: "A placeholder entry for future posts on transport policy, public transit, and welfare measurement."
+categories: [placeholder, research]
+title-block-banner: false
+---
+
+This placeholder is reserved for future writing on transport policy, urban mobility, and welfare effects.
+
+As the site evolves, this is where I can write through data questions, empirical strategies, and policy interpretations in a lighter format than a formal research paper.

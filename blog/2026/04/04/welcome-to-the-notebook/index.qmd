@@ -1,0 +1,13 @@
+---
+title: "Welcome to the notebook"
+date: 2026-04-04
+description: "A placeholder post for future short notes on research, code, and coursework."
+categories:
+  - placeholder
+  - website
+comments: false
+---
+
+This is a placeholder post that marks the start of the blog section.
+
+The goal of this page is to create a ready-to-use structure for future writing: short research notes, coding reflections from coursework, and project updates that deserve more space than a line on the CV.

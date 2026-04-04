@@ -1,0 +1,26 @@
+---
+title: "Curriculum Vitae"
+title-block: false
+page-layout: full
+body-classes: cv-page
+---
+
+::: {.cv-shell}
+# Curriculum vitae
+
+::: {.cv-meta}
+<span class="cv-label">CV last updated</span>
+<strong>April 4, 2026</strong>
+:::
+
+My current CV is embedded below and available as a direct download. The page uses the PDF currently stored in this repository, so replacing the file updates both the download and the preview.
+
+<p class="cv-download-row">
+  <a class="hero-button hero-button-primary" href="site-assets/docs/cv.pdf" download>Download current CV</a>
+  <a class="hero-button" href="site-assets/docs/cv.pdf" target="_blank" rel="noopener">Open in a new tab</a>
+</p>
+
+::: {.cv-paper-frame}
+<iframe src="site-assets/docs/cv.pdf" title="Curriculum Vitae"></iframe>
+:::
+:::

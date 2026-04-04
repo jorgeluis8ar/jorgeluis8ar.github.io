@@ -1,0 +1,39 @@
+---
+title: "Research"
+listing:
+  - id: working-papers
+    contents: "working-papers/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+    categories: true
+  - id: research-in-progress
+    contents: "research-in-progress/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+  - id: course-projects
+    contents: "course-projects/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+page-layout: full
+include-back-link: false
+toc-location: right
+---
+
+My research spans development economics, urban and spatial economics, and public policy. I am especially interested in public transport, household welfare, access to opportunity, and the determinants of crime. Much of my current work grows out of questions about how mobility constraints and policy design shape economic behavior in unequal urban settings.
+
+## Working papers
+
+:::{#working-papers}
+:::
+
+
+## Research in progress
+
+:::{#research-in-progress}
+:::
+
+
+## Course projects
+
+:::{#course-projects}
+:::

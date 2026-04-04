@@ -1,0 +1,37 @@
+---
+title: "Urban Mobility, Welfare, and Policy Design"
+date: 2026-04-04
+author:
+  - name: Jorge Luis Ochoa Rincón
+    url: https://jorgeluis8ar.github.io/
+    orcid: 0009-0004-4113-8724
+    affiliation: Department of Economics, Brown University
+categories:
+  - Urban economics
+  - Spatial economics
+  - Mobility
+  - Development economics
+pub-info:
+  reference: >-
+    <strong>Jorge Luis Ochoa Rincón</strong>, “Urban Mobility, Welfare, and Policy Design” (research agenda in progress)
+  links:
+    - name: Contact
+      url: mailto:jorge_ochoa@brown.edu
+      icon: bi bi-envelope
+haiku:
+  - Access is never neutral
+  - Cities ration time and distance
+  - Policy redraws maps
+---
+
+## Overview
+
+This project page outlines the broader set of questions I want to keep pursuing during the PhD. I am interested in how transport costs, time costs, and spatial frictions affect labor decisions, non-work travel, and household welfare in cities marked by unequal access to opportunity.
+
+## Current direction
+
+My current thinking centers on three connected themes:
+
+- how transport subsidies shape welfare gains across different types of households and trips;
+- how spatial frictions alter the effective benefits of social policy; and
+- how mobility constraints affect broader outcomes in development and urban policy.

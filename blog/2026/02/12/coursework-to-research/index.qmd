@@ -1,0 +1,13 @@
+---
+title: "From coursework to research questions"
+date: 2026-02-12
+description: "A placeholder entry for future thoughts on how class assignments develop into longer research projects."
+categories:
+  - placeholder
+  - phd
+comments: false
+---
+
+This placeholder keeps space open for future writing about the transition from class exercises to durable research questions.
+
+It also gives the blog page a fuller structure now, which helps the site feel complete even before regular posts begin.

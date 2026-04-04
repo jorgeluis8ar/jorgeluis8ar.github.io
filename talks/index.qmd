@@ -1,0 +1,34 @@
+---
+title: "Talks"
+page-layout: full
+---
+
+::: {.page-lead}
+This section is set up for conference presentations, seminar talks, and class presentations. It mirrors the structure of the rest of the site now, and I will keep adding formal entries as new talks happen.
+:::
+
+::: {.research-grid}
+::: {.research-card}
+<div class="card-eyebrow">Coming Soon</div>
+### Selected talks and presentations
+
+I am building out this archive so it can house slides, event details, and short summaries for future presentations. The layout is live now so new entries can be added without changing the site structure.
+:::
+
+::: {.research-card}
+<div class="card-eyebrow">Topics</div>
+### Areas I am happy to talk about
+
+- Urban mobility and public transport
+- Welfare analysis and discrete choice models
+- Development and applied microeconomics
+- Research design for policy-relevant empirical work
+:::
+
+::: {.research-card}
+<div class="card-eyebrow">Current Stage</div>
+### From coursework to public presentations
+
+As I move through the PhD, I expect this page to grow from a simple archive into a more complete talks page with slides, abstracts, and event links.
+:::
+:::

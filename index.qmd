@@ -1,0 +1,58 @@
+---
+title: "Jorge Luis Ochoa Rincón"
+description: "Jorge Luis Ochoa Rincón is a first-year PhD student in Economics at Brown University working on development economics, urban and spatial economics, transport, and the determinants of crime."
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      url: https://github.com/jorgeluis8ar
+    - text: "Google Scholar"
+      url: https://scholar.google.com/citations?user=g3sRGYkAAAAJ&hl=en&oi=sra
+    - text: "ORCID 0009-0004-4113-8724"
+      url: https://orcid.org/0009-0004-4113-8724
+    - icon: twitter-x
+      text: X
+      url: https://x.com/JorgeLuis_ochoa
+    - icon: envelope-fill
+      text: Brown email
+      url: mailto:jorge_ochoa@brown.edu
+    - icon: file-arrow-down
+      text: Download CV
+      url: site-assets/docs/cv.pdf
+image: site-assets/img/Headshot_cropped.jpeg
+comments: false
+toc: true
+toc-title: "On this page"
+---
+
+## Bio
+
+I am a first-year PhD student in Economics at Brown University. My research interests are in development economics, urban and spatial economics, public transport, and the determinants of crime.
+
+Before starting the PhD, I worked as a Research Assistant in the Department of Impact Evaluation (DIME) at the World Bank and at the Faculty of Economics at Universidad de los Andes in Bogotá. I received my BA and MSc in Economics from Universidad de los Andes in 2021 and 2023.
+
+My master's thesis studied the welfare effects of public transport subsidies in a developing-country context using consumer surplus to evaluate policy impacts. That project continues to shape my current interests in mobility, welfare, and access to opportunity.
+
+You can find a [list of my research here](research). I am also building out a [blog](blog) for notes on coursework, coding, and research as I move through the PhD.
+
+## Key research interests
+
+* **Development economics**: household welfare, public policy, and distributional effects of interventions
+* **Urban and spatial economics**: mobility, travel costs, access to opportunity, and spatial inequality
+* **Transport economics**: public transport demand, subsidy design, and welfare measurement
+* **Crime and inequality**: the determinants of crime and the relationship between local conditions and public safety
+
+## Teaching
+
+I have worked as a teaching assistant for introductory econometrics, as well as introductory and intermediate macroeconomics at Universidad de los Andes. Teaching has been one of the best ways for me to sharpen clear quantitative reasoning and communication.
+
+From time to time, I also give research presentations and class talks. As that side of my work grows, I will keep an updated list on the [Talks](talks) page.
+
+## Selected research
+
+**The Welfare Effect of Subsidies: A Case Study of Public Transport.** This project estimates welfare gains using detailed data from a public transport subsidy experiment in Bogotá, Colombia. The effective experimental variation in subsidy allocation allows the identification of key parameters in a discrete choice model and supports credible estimates of welfare gains for beneficiary households. [See more here](research).
+
+## Professional profile
+
+I am currently based in Providence, Rhode Island, and affiliated with the Brown University Department of Economics. This website is a home for my research, CV, and future writing throughout the PhD.

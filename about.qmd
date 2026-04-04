@@ -1,0 +1,48 @@
+---
+title: "About Jorge Luis Ochoa Rincón"
+description: "Jorge Luis Ochoa Rincón is a first-year PhD student in Economics at Brown University with interests in development economics, urban and spatial economics, transport, and the determinants of crime."
+image: /site-assets/img/Headshot_cropped.jpeg
+comments: false
+toc: true
+---
+
+Jorge Luis Ochoa Rincón is a first-year PhD student in Economics at Brown University. His research interests are in development economics, urban and spatial economics, public transport, and the determinants of crime.
+
+## Research
+
+Jorge's work is motivated by questions about mobility, welfare, and access to opportunity. He is especially interested in how public policy changes household decisions when those decisions are shaped by travel costs, spatial frictions, and unequal urban environments.
+
+His master's thesis studied the welfare effects of public transport subsidies in Bogotá, Colombia, using consumer surplus to evaluate how a policy intervention changed outcomes for beneficiaries. That project continues to shape his broader research agenda in transport, welfare analysis, and development.
+
+## Education and training
+
+Jorge received his BA and MSc in Economics from Universidad de los Andes in 2021 and 2023. He is currently pursuing a PhD in Economics at Brown University.
+
+## Teaching and research experience
+
+Before starting the PhD, Jorge worked as a Research Assistant in the Department of Impact Evaluation (DIME) at the World Bank and at the Faculty of Economics at Universidad de los Andes in Bogotá. These roles gave him experience with applied microeconomics, impact evaluation, and policy-oriented empirical research.
+
+He also served as a teaching assistant for introductory econometrics, as well as introductory and intermediate macroeconomics at Universidad de los Andes.
+
+## Research interests
+
+Jorge's current interests include:
+
+- development economics
+- urban and spatial economics
+- public transport and mobility
+- welfare effects of subsidies and social programs
+- determinants of crime
+
+## Current focus
+
+At Brown, Jorge is continuing to develop a research agenda around how mobility constraints and policy design affect welfare. He is particularly interested in questions where empirical identification and institutional detail can speak directly to policy design in developing contexts.
+
+## Contact
+
+- Brown email: [jorge_ochoa@brown.edu](mailto:jorge_ochoa@brown.edu)
+- Personal email: [jorgeluis8a@yahoo.com](mailto:jorgeluis8a@yahoo.com)
+- GitHub: [jorgeluis8ar](https://github.com/jorgeluis8ar)
+- Google Scholar: [Profile](https://scholar.google.com/citations?user=g3sRGYkAAAAJ&hl=en&oi=sra)
+- ORCID: [0009-0004-4113-8724](https://orcid.org/0009-0004-4113-8724)
+- X: [@JorgeLuis_ochoa](https://x.com/JorgeLuis_ochoa)
