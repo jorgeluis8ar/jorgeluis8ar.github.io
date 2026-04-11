@@ -3,7 +3,6 @@ project:
   output-dir: _site
   render:
     - index.qmd
-    - about.qmd
     - cv/index.qmd
     - research/index.qmd
     - research/*/*/index.qmd
@@ -34,18 +33,13 @@ website:
       - text: "GitHub"
         href: "https://github.com/jorgeluis8ar"
   navbar:
-    logo: site-assets/img/website_icon.png
-    logo-alt: "JO monogram"
     title: "Jorge Luis Ochoa Rincón"
     pinned: true
     search: true
     left:
-      - text: "Home"
-        icon: house-door
-        href: index.qmd
       - text: "About"
         icon: person
-        href: about.qmd
+        href: index.qmd
       - text: "Research"
         icon: journal-text
         href: research/index.qmd
