@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   const backToTop = document.getElementById("back-to-top");
   const cvDownloadLinks = document.querySelectorAll(
-    'a.about-link[href$="site-assets/docs/cv.pdf"], a.about-link[href$="/site-assets/docs/cv.pdf"]'
+    'a.about-link[href$="cv/jorge-luis-ochoa-rincon-cv.pdf"], a.about-link[href$="/cv/jorge-luis-ochoa-rincon-cv.pdf"]'
   );
   const scholarLink = document.querySelector(
     'a.about-link[href*="scholar.google.com"]'

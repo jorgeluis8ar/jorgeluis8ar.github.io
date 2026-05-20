@@ -22,7 +22,7 @@ about:
       url: mailto:jorge_ochoa@brown.edu
     - icon: download
       text: CV
-      url: site-assets/docs/cv.pdf
+      url: cv/jorge-luis-ochoa-rincon-cv.pdf
 # image: site-assets/img/Headshot_cropped.jpeg
 image: site-assets/img/20250918_044652932_iOS.jpg
 comments: false
