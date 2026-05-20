@@ -1,7 +1,7 @@
 ---
 title: Curriculum vitæ
 description: "Jorge Luis Ochoa Rincón's CV"
-date: 2026-04-04
+date: 2026-05-20
 title-block-banner: "#C00404"
 published-title: CV last updated
 engine: knitr
